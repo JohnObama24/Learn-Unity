@@ -8,7 +8,7 @@ public class InteractDoor : MonoBehaviour
     public Transform Tujuan;
     public GameObject InteractionUI;
     private bool isPlayerNearby = false;
-    public bool sudahMasuk = true;
+    // public bool sudahMasuk = true;
 
     // Start is called before the first frame update
     void Start()
